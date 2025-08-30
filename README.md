@@ -3,8 +3,8 @@
 A modern social media application built with Flutter and Firebase. This project aims to provide a robust and scalable platform for users to connect, share, and interact.
 
 ## Screenshots
-<img width="640" height="1428" alt="image" src="https://github.com/user-attachments/assets/d5e16b9a-c7cd-4e91-af90-81e60c57e9ff" />
-<img width="1280" height="2856" alt="image" src="https://github.com/user-attachments/assets/66286251-ab04-4876-afcf-4f6fae3ec191" />
+<img width="426" height="952" alt="image" src="https://github.com/user-attachments/assets/d5e16b9a-c7cd-4e91-af90-81e60c57e9ff" />
+<img width="426" height="952" alt="image" src="https://github.com/user-attachments/assets/66286251-ab04-4876-afcf-4f6fae3ec191" />
 
 
 ## Features
